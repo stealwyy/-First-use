@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681526618 source:d:\codeblocks\codeblocks\codeblocks\练习代码\一元多项式\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
